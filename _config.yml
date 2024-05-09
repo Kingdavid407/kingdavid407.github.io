@@ -43,7 +43,7 @@ twitter:
 
 # Liquid
 liquid:
-  error_mode: strict
+  error_mode: warn
 
 # Build settings
 permalink: /:categories/:title/
