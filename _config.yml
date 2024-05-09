@@ -20,7 +20,7 @@ locale: en-US
 # Site settings
 title: King David
 description: '"Making Good Men Better"'
-url: 'http://kingdavid407.github.io'
+url: 'https://kingdavid407.github.io'
 baseurl: '/'
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
