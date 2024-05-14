@@ -18,7 +18,7 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
 # Site settings
-title: King David
+title: King David Lodge
 description: '"Making Good Men Better"'
 url: 'https://kingdavid407.github.io'
 baseurl: '/'
@@ -103,6 +103,9 @@ author:
 
 # Footer Links
 footer_links:
+  - title: Facebook
+    url: "https://www.facebook.com/kingdavid.lodge"
+    icon: fab fa-facebook-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
