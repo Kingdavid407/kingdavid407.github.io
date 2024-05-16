@@ -261,11 +261,12 @@
   }
 
   .page-content {
+    text-align: center;
+
     @include breakpoint($large) {
       float: right; // display: grid fallback
       width: 78%; // display: grid fallback
       min-width: 0;
-      align: center;
     }
 
     @supports (display: grid) {
