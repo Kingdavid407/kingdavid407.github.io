@@ -10,7 +10,7 @@ permalink: /members/
 ## Lodge Officers 2024
 
 | Position          | Name              |
-|-|:-:|
+|-|-|
 | Worshipful Master | Chad Willey       |
 | Senior Warden     | Antonio Collins   |
 | Junior Warden     | Shawn Mullihan    |
