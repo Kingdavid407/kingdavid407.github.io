@@ -24,3 +24,5 @@ permalink: /members/
 | Junior Steward    | Scott Riner       |
 | Tyler             | Johnathan Freel PM|
 
+
+![Paypal](/images/qrcode.png)
