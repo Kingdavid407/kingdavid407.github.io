@@ -21,7 +21,7 @@ permalink: /members/
 | Senior Deacon     | Kent Allen        |
 | Junior Deacon     | Joe Clay          |
 | Senior Steward    | John Coffman      |
-| Junior Steward    | Matt Dinwittie    |
+| Junior Steward    | Matt Dinwiddie    |
 | Tyler             | Chad Willey Jr PM |
 
 
