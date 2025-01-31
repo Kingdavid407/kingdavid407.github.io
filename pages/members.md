@@ -11,18 +11,18 @@ permalink: /members/
 
 | Position          | Name              |
 |-|-|
-| Worshipful Master | Chad Willey       |
-| Senior Warden     | Antonio Collins   |
-| Junior Warden     | Shawn Mullihan    |
+| Worshipful Master | Antonio Collins   |
+| Senior Warden     | Shawn Mullihan    |
+| Junior Warden     | Shawn Graham      |
 | Treasurer         | Mike Hamilton PM  |
 | Secretary         | Adam Jones PM     |
 | Chaplain          | Danny Middleton PM|
-| Marshall          | John Coffman      |
-| Senior Deacon     | Shawn Graham      |
-| Junior Deacon     | Kent Allen        |
-| Senior Steward    | Joe Clay          |
-| Junior Steward    | Scott Riner       |
-| Tyler             | Johnathan Freel PM|
+| Marshall          | Chad Mullenberg   |
+| Senior Deacon     | Kent Allen        |
+| Junior Deacon     | Joe Clay          |
+| Senior Steward    | John Coffman      |
+| Junior Steward    | Matt Dinwittie    |
+| Tyler             | Chad Willey Jr PM |
 
 
 ![Paypal](/images/qrcode.png)
