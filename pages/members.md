@@ -24,7 +24,7 @@ permalink: /members/
 | Junior Steward    | Matt Dinwiddie    |
 | Tyler             | Chad Willey Jr PM |
 
-
+>
 ## Lodge Officers 2026
 
 | Position          | Name                  |
@@ -39,11 +39,13 @@ permalink: /members/
 | Senior Deacon     | Adam Edwards          |
 | Junior Deacon     | John Coffman          |
 | Senior Steward    | Matt Dinwiddie        |
-| Junior Steward    |     |
+| Junior Steward    | Michael Heuer         |
 | Tyler             | Joe Clay              |
 | Musician          | Antonio Collins Jr PM |
 
+>
 ## Lodge Trustees
+
 | Last Elected Date | Name                  |
 | 2024              | Ted Griffieon PM      |
 | 2025              | Griz Hunt             |
