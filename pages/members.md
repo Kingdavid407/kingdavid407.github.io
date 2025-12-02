@@ -20,7 +20,7 @@ permalink: /members/
 | Marshall          | Chad Mullenberg   |
 | Senior Deacon     | Kent Allen        |
 | Junior Deacon     | Joe Clay          |
-| Senior Steward    | Jon Coffman      |
+| Senior Steward    | John Coffman      |
 | Junior Steward    | Matt Dinwiddie    |
 | Tyler             | Chad Willey Jr PM |
 
@@ -37,7 +37,7 @@ permalink: /members/
 | Chaplain          | Jeremy Long PM        |
 | Marshall          | Chad Mullenberg       |
 | Senior Deacon     | Adam Edwards          |
-| Junior Deacon     | Jon Coffman          |
+| Junior Deacon     | John Coffman          |
 | Senior Steward    | Matt Dinwiddie        |
 | Junior Steward    | Michael Heuer         |
 | Tyler             | Joe Clay              |
