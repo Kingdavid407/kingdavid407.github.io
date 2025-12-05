@@ -109,3 +109,9 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: Location
+    url: "https://maps.app.goo.gl/LkHQp8Yzdwn4J8Dx5"
+    icon: fas fa-map-marker-alt
+  - title: Email
+    url: "mailto:secretary.kdl407@gmail.com"
+    icon: fas fa-envelope

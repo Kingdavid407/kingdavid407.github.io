@@ -7,9 +7,4 @@ entries_layout: list
 
 <h2> King David Lodge is a Masonic organization dedicated to promote education for the betterment of our country. Freemasonry helps to make good men better, not better than others, but better than they would otherwise be. The highest tenants of our order are friendship, morality, and brotherly love which we apply to our daily lives in our service to mankind. We are a diverse brotherhood, forged upon the strength and support of friends, neighbors, family, and most of all God. </h2>
 
-<div>
-    <li>Lodge Details</li>
-    <li>Time: 6:30 Dinner, 7:30 Lodge</li>
-    <li>Location: 707 8th St SE, Altoona, IA, United States, Iowa</li>
-    <li>Contact: secretary.kdl407@gmail.com</li>
-</div>
+<div>Monthly Meeting 2nd Wednesday Time: 6:30 Dinner, 7:30 Lodge</div>
