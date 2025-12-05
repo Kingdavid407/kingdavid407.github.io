@@ -10,15 +10,9 @@
 #   url: /tags/
 - title: History
   url: /history/
-#- title: Grand Lodge of Iowa 
-#  url: https://grandlodgeofiowa.org/
-#- title: Grand Lodge of Iowa Member Portal
-#  url: https://ia.grandview.systems/users/sign_in
-#- title: Iowa Masonic Charities
-#  url: https://www.iowamasoniccharities.com/
 - title: Links
   url: /links/
-- title: Search
-  url: /search/
+- title: Events
+  url: /events/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
