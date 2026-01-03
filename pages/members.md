@@ -44,15 +44,12 @@ permalink: /members/
 | Musician          | Antonio Collins Jr PM |
 
 
-## Worshipful Master
+## Worshipful Master Shawn Mullihan
 ![Shawn M.](https://github.com/Kingdavid407/kingdavid407.github.io/blob/master/images/Shawn-M..jpg)
 
-Shawn Mullihan
+## Senior Warden Shawn Graham & Junior Warden Kent Allen
+![Shawn G.](https://github.com/Kingdavid407/kingdavid407.github.io/blob/master/images/Shawn-G.jpg) ![Kent A.](https://github.com/Kingdavid407/kingdavid407.github.io/blob/master/images/Kent-A.jpg)
 
-## Senior Warden
-![Shawn G.](https://github.com/Kingdavid407/kingdavid407.github.io/blob/master/images/Shawn-G.jpg)
-
-Shawn Graham
 
 ## Lodge Trustees
 
