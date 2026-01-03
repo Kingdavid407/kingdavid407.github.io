@@ -48,7 +48,7 @@ permalink: /members/
 ![Shawn M.](/images/Shawn-M..jpg)
 
 ## Senior Warden Shawn Graham & Junior Warden Kent Allen
-![Shawn G.](https://github.com/Kingdavid407/kingdavid407.github.io/blob/master/images/Shawn-G.jpg) ![Kent A.](https://github.com/Kingdavid407/kingdavid407.github.io/blob/master/images/Kent-A.jpg)
+![Shawn G.](/images/Shawn-G.jpg) ![Kent A.](/images/Kent-A.jpg)
 
 
 ## Lodge Trustees
