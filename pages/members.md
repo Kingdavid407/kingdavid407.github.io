@@ -42,8 +42,10 @@ permalink: /members/
 | Junior Steward    | Michael Heuer         |
 | Tyler             | Joe Clay              |
 | Musician          | Antonio Collins Jr PM |
-
 >
+![Shawn M.](https://github.com/Kingdavid407/kingdavid407.github.io/blob/master/images/Shawn-M..jpg)
+
+<strong>Worshipful Master</strong> Shawn Mullihan
 ## Lodge Trustees
 
 | Last Elected Date | Name                  |
