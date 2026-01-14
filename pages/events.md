@@ -5,6 +5,5 @@ permalink: /events/
 collection: events
 ---
 
-<h2>Events</h2>
-
+<h2>2026 Lodge officers</h2>
 ![2026 Officers](/images/2026officers.jpg)
